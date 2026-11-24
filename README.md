@@ -3,11 +3,9 @@
 - 🔭 小前端一枚
 - 📫 联系方式
 
-| 邮箱      | qq| 微信|
-| --------- | -----| -----:|
-| 1140691970@qq.com  | 1140691970 | breezy_kk |
-
-- ⚡ 个人博客: [kang`blog](https://1140691970.github.io/)
+| 邮箱      | qq|
+| --------- | -----:|
+| 1140691970@qq.com  | 1140691970 |
 
 <!--
 **1140691970/1140691970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
